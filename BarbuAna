@@ -1,0 +1,18 @@
+# Proiect Agile – Gestionarea Sarcinilor Zilnice
+
+## Scopul proiectului
+Aplicația va permite utilizatorilor să gestioneze sarcinile zilnice cu ușurință.
+
+## Funcționalități planificate
+- Adăugare sarcini  
+- Ștergere sarcini  
+- Notificări
+
+## Tehnologii folosite
+- Trello (planificare sarcini)
+- GitHub (gestionare cod sursă)
+- Google Docs/Sheets (documentare)
+- Eventual: MIT App Inventor sau alt limbaj pentru dezvoltarea aplicației
+
+## Echipa / Autor
+Ana Barbu – studentă, laborator Agile
